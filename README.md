@@ -29,7 +29,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 `pkg install git`
 
-`pkg install python2`
+`pkg install python`
 
 `git clone https://github.com/1998ganteng/ganteng.git`
 
